@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ListaCrud</string>
+
+    <!-- FRagments Subscriber -->
+    <string name="quantidade">Quantidade</string>
+    <string name="preco">Preço</string>
+    <string name="marca_do_produto">Marca do produto</string>
+    <string name="btn_add">Adcionar</string>
+    <string name="add_item">Adicionar item</string>
 </resources>
